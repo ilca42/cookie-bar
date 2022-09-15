@@ -1,0 +1,19 @@
+#cookie-banner { 
+  display: none;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  min-width: 100%;
+  background: rgb(194, 127, 127);
+  color: black;
+  text-align: center; 
+}
+
+.container {
+  margin-top: 2rem;
+  border-left: solid 4px rgb(194, 127, 127);
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
